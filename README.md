@@ -2,7 +2,7 @@
 
 This repository **contains a contract and its respective tests** that I developed while working as a **Smart Contract Programmer**.
 
-The functionality of the contract in this repository is to **maintain the correct collateralization of debt** issued by the platform. If a user uses debt and the collateral falls below the required health ratio, it will **liquidate the vault via an Uniswap Flash Loan**.
+The functionality of the contract in this repository is to **maintain the correct collateralization of debt** issued by the platform. If a user issues debt and the collateral falls below the required health ratio, it will **liquidate the vault via an Uniswap Flash Loan**.
 
 Please note that this contract won't compile out of the box because it requires dependencies that I'm not allowed to share.
 
